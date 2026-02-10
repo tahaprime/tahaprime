@@ -21,7 +21,7 @@
 
 ## ⚡ Who am I?
 
-I’m Taha Hoummadi, a software engineering student focused on building scalable and maintainable software systems. I enjoy full-stack development, clean architecture, and turning ideas into practical, real-world application
+I’m **Taha Hoummadi,** a software engineering student focused on building scalable and maintainable software systems. I enjoy full-stack development, clean architecture, and turning ideas into practical, real-world application
  
 - 🌐 Full-stack Dev  
 - 📱 Web & Mobile applications  
