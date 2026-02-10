@@ -10,21 +10,23 @@
 </pre>
 
 ### **TAHA HOUMMADI**  
-**Software Engineering Student · Robotics · Full-Stack Web**  
+**Software Engineering Student · Full-Stack Development**  
 📍 Morocco
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=6A5ACD&center=true&vCenter=true&width=460&lines=I+build+systems%2C+not+just+code.;Web+%7C+Robotics+%7C+Embedded;Learning.+Building.+Iterating." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=6A5ACD&center=true&vCenter=true&width=460&lines=I+build+systems%2C+not+just+code.;Web+%7C+Mobile+%7C+Backend;Learning.+Building.+Iterating." />
 
 </div>
 
 ---
 
-## ⚡ Focus
+## ⚡ Who am I?
 
-- 🤖 Robotic systems & operator interfaces  
-- 🌐 Full-stack web platforms  
-- 📱 Mobile applications  
-- 🧠 Clean architecture & real-world systems  
+I’m Taha Hoummadi, a software engineering student focused on building scalable and maintainable software systems. I enjoy full-stack development, clean architecture, and turning ideas into practical, real-world application
+ 
+- 🌐 Full-stack Dev  
+- 📱 Web & Mobile applications  
+- 🧠 Clean architecture & real-world systems
+- 🤖 Intelligent systems
 
 ---
 
@@ -53,5 +55,8 @@
 
 ---
 
-## Taha Bleu -- Just 
+<p align="center">
+  <i>Build things that work. Improve them. Repeat.</i>
+</p>
+
 
